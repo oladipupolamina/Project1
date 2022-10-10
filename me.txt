@@ -1,0 +1,2 @@
+1. Add the files to the staging area git add filename/.
+2. Commit the file/code for push to online repo git commit -m "added header to the page""
